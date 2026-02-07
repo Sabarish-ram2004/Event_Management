@@ -1,0 +1,22 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Camera body -->
+  <rect x="30" y="50" width="140" height="90" rx="10" fill="#E0E0E0" stroke="#000" stroke-width="8"/>
+  
+  <!-- Lens -->
+  <circle cx="100" cy="95" r="35" fill="#fff" stroke="#000" stroke-width="6"/>
+  <circle cx="100" cy="95" r="28" fill="#FF1493" stroke="#000" stroke-width="4"/>
+  <circle cx="100" cy="95" r="18" fill="#8B0A50"/>
+  
+  <!-- Viewfinder -->
+  <rect x="35" y="55" width="30" height="20" rx="3" fill="#B0B0B0" stroke="#000" stroke-width="4"/>
+  
+  <!-- Flash -->
+  <circle cx="155" cy="65" r="12" fill="#FFD700" stroke="#000" stroke-width="4"/>
+  
+  <!-- Buttons -->
+  <circle cx="40" cy="135" r="8" fill="#FF1493" stroke="#000" stroke-width="3"/>
+  <circle cx="60" cy="145" r="6" fill="#FF1493" stroke="#000" stroke-width="3"/>
+  
+  <!-- Tripod mount -->
+  <rect x="95" y="145" width="10" height="20" fill="#B0B0B0" stroke="#000" stroke-width="4"/>
+</svg>
